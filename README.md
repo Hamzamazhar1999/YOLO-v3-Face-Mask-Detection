@@ -1,6 +1,6 @@
 # YOLO-v3-Face-Mask-Detection
 
-Mask detection done using YOLOv3. This is using YOLO weights trained on a custom dataset that was collected and labelled by me. The software used for labelling the dataset was LabelImg.
+Mask detection done using YOLOv3. This is using YOLO weights trained on a custom dataset that was collected and labelled by me. The software used for labelling the dataset was LabelImg. Weights are available upon request.
 An accuracy of 90% was obtained by testing the model on still pictures. 
 
 
