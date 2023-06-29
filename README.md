@@ -7,9 +7,10 @@ An accuracy of 90% was obtained by testing the model on still pictures.
 
 
 # Confusion Matrix for a subset of the data:
-![image](https://github.com/Hamzamazhar1999/YOLO-v3-Face-Mask-Detection/assets/129704102/daf96b98-fcd8-4800-816b-d6b2cd5760a1)
+![Screenshot 2023-06-29 230252](https://github.com/Hamzamazhar1999/YOLO-v3-Face-Mask-Detection/assets/129704102/56c8d139-07b1-4ced-8ed7-5dd2bc13e391)
 
 # Model in real time detection:
-![image](https://github.com/Hamzamazhar1999/YOLO-v3-Face-Mask-Detection/assets/129704102/ab797cbe-fe82-454c-b887-582af3fab930)
 
-![image](https://github.com/Hamzamazhar1999/YOLO-v3-Face-Mask-Detection/assets/129704102/ebca0df7-3542-48ac-8e45-129cd2a19763)
+![Screenshot 2023-06-29 230252](https://github.com/Hamzamazhar1999/YOLO-v3-Face-Mask-Detection/assets/129704102/9273397b-c232-4cd2-8c5d-c1d8e108f64d)
+
+![Screenshot 2023-06-29 230252](https://github.com/Hamzamazhar1999/YOLO-v3-Face-Mask-Detection/assets/129704102/0fcd10fe-4083-4e79-8947-cc8cbbb1334d)
